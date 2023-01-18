@@ -1,0 +1,11 @@
+﻿  Load_Fbx_Ascii.cpp
+C:\Users\k2002\source\repos\Original_Format\Original_Format\src\Load_Fbx_Ascii.cpp(166,35): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\k2002\source\repos\Original_Format\Original_Format\src\Load_Fbx_Ascii.cpp(246,33): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\k2002\source\repos\Original_Format\Original_Format\src\Load_Fbx_Ascii.cpp(325,49): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\k2002\source\repos\Original_Format\Original_Format\src\Load_Fbx_Ascii.cpp(349,41): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\k2002\source\repos\Original_Format\Original_Format\src\Load_Fbx_Ascii.cpp(354,52): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\k2002\source\repos\Original_Format\Original_Format\src\Load_Fbx_Ascii.cpp(53,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\k2002\source\repos\Original_Format\Original_Format\src\Load_Fbx_Ascii.cpp(135): message : コンパイル対象の関数 テンプレート インスタンス化 'void `anonymous-namespace'::SearchMesh<int>(const char *,std::vector<int,std::allocator<int>> &)' のリファレンスを確認してください
+  main.cpp
+  コードを生成中...
+  Original_Format.vcxproj -> C:\Users\k2002\source\repos\Original_Format\x64\Debug\Original_Format.exe
